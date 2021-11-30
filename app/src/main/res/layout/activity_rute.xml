@@ -255,6 +255,8 @@
                             android:layout_below="@+id/linearHour"
                             android:layout_gravity="center"
                             android:layout_marginStart="50dp"
+                            android:textSize="12sp"
+                            android:fontFamily="@font/avenir_medium"
                             android:text="@string/namaJalan" />
                     </RelativeLayout>
                 </LinearLayout>

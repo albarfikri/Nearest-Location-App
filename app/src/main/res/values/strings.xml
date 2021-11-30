@@ -5,8 +5,9 @@
     <string name="googleMaps">Google Maps</string>
     <string name="phone">Phone</string>
     <string name="share">Share</string>
-    <string name="namaJalan">Nama Jalan</string>
     <string name="jarakDanWaktu">Jarak dan Waktu</string>
     <string name="jamOperasional">Jam Operasional</string>
     <string name="namaJalan">Nama Jalan</string>
+    <string name="rutePerjalanan">Rute Perjalanan</string>
+    <string name="bengkel_amp_tambal_ban"><![CDATA[Bengkel & Tambal Ban]]></string>
 </resources>

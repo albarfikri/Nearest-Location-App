@@ -1,7 +1,8 @@
-package com.albar.nearestlocation
+package com.albar.nearestlocation.view.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.albar.nearestlocation.R
 
 class RuteActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

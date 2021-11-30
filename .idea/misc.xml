@@ -3,9 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Politeknik Caltex Riau/Final/Proyek Akhir/Latihan/Project Haversine/app/src/main/res/drawable/Long Rounded.xml" value="0.1" />
         <entry key="..\:/Politeknik Caltex Riau/Final/Proyek Akhir/Latihan/Project Haversine/app/src/main/res/drawable/bg_circle_radius.xml" value="0.1" />
+        <entry key="..\:/Politeknik Caltex Riau/Final/Proyek Akhir/Latihan/Project Haversine/app/src/main/res/drawable/bg_rounded_bottom.xml" value="0.13333333333333333" />
+        <entry key="..\:/Politeknik Caltex Riau/Final/Proyek Akhir/Latihan/Project Haversine/app/src/main/res/drawable/bg_rounded_top.xml" value="0.1" />
+        <entry key="..\:/Politeknik Caltex Riau/Final/Proyek Akhir/Latihan/Project Haversine/app/src/main/res/drawable/ic_back.xml" value="0.1" />
         <entry key="..\:/Politeknik Caltex Riau/Final/Proyek Akhir/Latihan/Project Haversine/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Politeknik Caltex Riau/Final/Proyek Akhir/Latihan/Project Haversine/app/src/main/res/layout/activity_rute.xml" value="0.16608996539792387" />
+        <entry key="..\:/Politeknik Caltex Riau/Final/Proyek Akhir/Latihan/Project Haversine/app/src/main/res/layout/list_item_location.xml" value="0.24552429667519182" />
+        <entry key="..\:/Politeknik Caltex Riau/Final/Proyek Akhir/Latihan/Project Haversine/app/src/main/res/layout/toolbar.xml" value="0.2524271844660194" />
       </map>
     </option>
   </component>
