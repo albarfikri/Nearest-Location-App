@@ -3,7 +3,7 @@ plugins {
     id 'kotlin-android'
     id 'kotlin-android-extensions'
     // Plugin for securing API
-    id 'com.google.android.libraries.mapsplatform.secrets-gradle-plugin'
+    id 'com.google.secrets_gradle_plugin' version '0.4'
 }
 
 android {
@@ -15,7 +15,6 @@ android {
         targetSdk 31
         versionCode 1
         versionName "1.0"
-        buildConfigField "String", "GAPI_KEY", '”AIzaSyDpMAwvdeElgsX3YA32KZ_RrDBLMi3b0o4"'
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 

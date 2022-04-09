@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
     )
     lateinit var progressDialog: ProgressDialog
     lateinit var mainViewModel: MainViewModel
-    lateinit var mainAdapter: MainAdapter
+    lateinit var mainAdapter: "MainAdapter
     lateinit var strCurrentLocation: String
     var strCurrentLatitude = 0.0
     var strCurrentLongitude = 0.0
